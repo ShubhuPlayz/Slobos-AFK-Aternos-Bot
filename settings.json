@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "foreversmp0.qzz.io",
-    "port": ,
+    "ip": "ForeverSMP_OP.aternos.me",
+    "port":60653 ,
     "version": "",
     "try-creative": false
   },
